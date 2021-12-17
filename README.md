@@ -8,7 +8,7 @@ Depuis la page Github de ce dépôt, faire un fork de ce même dépôt.
 
 Puis cloner votre fork sur votre PC (avec VSCode).
 
-- [X] Chochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
+- [X] Chochez cette checkbox en plaçant un "**X**" entre les deux `[]` en début de ligne.
 - Faire un commit avec le message "test commit et push"
 - Faire un push du commit sur Github.
 
@@ -45,7 +45,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 # Conflits
 
 - [ ] Depuis le site Github (le dépôt "distant"), utiliser le bouton éditer ✏ pour cocher cette case. Avec "edit depuis Github", comme message de commit.
-- [ ] Cochez cette case depuis VSCode (le dépôt sur votre PC). Faire un commit "edit local"
+- [X] Cochez cette case depuis VSCode (le dépôt sur votre PC). Faire un commit "edit local"
 - Demandez à VSCode de synchroniser.
   - Cela doit echouer.
   - Faire `Shift+CMD+P` Git: Pull (rebase)
@@ -60,8 +60,8 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 - Faire une branche en cliquant en bas-à-gauche sur VSCode ; la nommer (en adaptant) _"votre-pseudo/test-branche"_
   - VSCode vous place automatiquement dans la nouvelle branche.
-- [ ] Cochez et commit : "1re commit dans branche"
-- [ ] Puis cochez et commit "2nd commit dans branche"
+- [] Cochez et commit : "1re commit dans branche"
+- [] Puis cochez et commit "2nd commit dans branche"
 - Regardez la liste des commits dans le volet Chronologie en bas de l'exlporateur de VSCode
 
 ## Changer de branche
